@@ -1,0 +1,220 @@
+whoami
+who
+id
+last
+uname -a
+cat /proc/partitions
+cat /proc/cpuinfo
+cat /proc/meminfo
+free -h
+df -h
+lsb_release -a
+lsblk
+iscpu
+lscpu
+ps aux
+top
+history
+f [[ ! $PS1 =~ 133 ]] ; then
+ssh-keygen -t ed25519
+cd
+Cd
+pwd
+cd
+Cd
+CD
+cd home
+cd Home
+CD Home
+cd $Home
+pwd
+cd
+cd Home
+Cd 
+cd~
+cd ~
+cd
+pwd
+cd Desktop/home
+cd desktop/home
+cd home
+cd kubuntu_2024/Home
+cd kubuntu_2024/home
+cd /kubuntu_2024/home
+cd
+cd /Home
+cd /home
+pwd
+mkdir repogit
+pwd
+cd /home
+mkdir repogit
+cd
+mkdir repogit
+cd repogit
+pwd
+ls -l
+ls -i
+ls
+ls -| ls
+cd t repogit
+git clone https://github.com/RamiroPetta/Tp1_AYSO_Petta_Ramiro.git
+ls -l
+cat /etc/os-release
+man grep
+cat /etc/HOME
+cat /home
+cat /HOME
+cat / HOME
+cat /home_url
+cat / HOME_URL
+man grep
+cat /etc/os-release
+HOME_URL
+cat /etc/os-release/HOME_URL
+cat /etc/os-release
+grep HOME_URL/etc/os-release
+grep home_url/etc/os-release
+pwb
+pwd
+cd /home
+cd /home/repogit
+cd /repogit
+cd /home/repogit
+cd /HOME/repogit
+cd /repogit
+cd repogit
+cd
+cd /home/repogit
+cd /HOME/repogit
+cd repogit
+cat/etc/os-release
+cat /etc/os-release
+man grep
+grep -i Home_url/etc/os-release
+man grep
+grep --ignore-case HOME_URL/etc/os-release
+grep --ignore-case home_url/etc/os-release
+grep --ignore-case Home_url/etc/os-release
+man grep
+grep -i Home_url/etc/os-release
+grep -i home_url/etc/os-release
+grep -i HOME_URL/etc/os-release
+grep -i Home_url/etc/os-release > datos_url.txt
+whoami
+id -un
+echo Usuario=$(whoami) > datos_usuario.txt
+"echo Usuario=$(whoami)" > datos_usuario.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add.
+git add .
+git add.
+git add
+git config --global user.email ramiropetta@gmail.com 
+git config --global user.name ramiroleonel2067 
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt" 
+cd Tp1_AYSO_Petta_Ramiro
+grep -i Home_url/etc/os-release
+grep -i HOME_URL/etc/os-release
+grep -i Home_url/etc/os-release > datos_url.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email ramiropetta@gmail.com 
+git config --global user.name ramiroleonel2067 
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt" 
+git status
+git push
+cd Tp1_AYSO_Petta_Ramiro
+cd /Tp1_AYSO_Petta_Ramiro
+cd Home
+cd /Home
+cd repogit/Tp1_AYSO_Petta_Ramiro
+git status
+git push
+cd repogit/Tp1_AYSO_Petta_Ramiro
+git status
+git push
+cd repotest/Tp1_AYSO_Petta_Ramiro
+cd repogit/Tp1_AYSO_Petta_Ramiro
+git status
+git push
+cat
+cat $HOME/.ssh/*.pub
+cd repogit/Tp1_AYSO_Petta_Ramiro
+git status
+git push
+git remote set-url origin git@github.ibm.com:WBurney/Blockchain_SDO.git
+git push
+git remote set-url origin null
+git push
+git remote set-url origin https://github.com/RamiroPetta/Tp1_AYSO_Petta_Ramiro.git
+git push
+git remote set-url origin https://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@github.com/RamiroPetta/Tp1_AYSO_Petta_Ramiro
+git push
+cpuinfo
+cpu-info
+grep 
+tail.1
+tail-1
+tail -n1
+grep tail -n1
+grep head -n1
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >>
+grep "" /proc/cpuinfo | head -n1 >
+grep  /proc/cpuinfo | head -n1 >
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git commit
+git add
+git commit
+git add datos_usuario.txt
+git commit
+cd repogit/Tp1_AYSO_Petta_Ramiro
+git commit
+cd repogit/Tp1_AYSO_Petta_Ramiro
+git commit
+cd repogit/Tp1_AYSO_Petta_Ramiro
+git commit “feat: anadiendo informacion de CPU"
+
+
+cd repogit/Tp1_AYSO_Petta_Ramiro
+cat <<EOF>> README.md
+git add README.md datos_usuarios.txt
+git add README.md datos_usuario.txt
+git commit -m "ADD: anadiendo README y datos de usuario"
+git push
+ls
+cd
+ls
+pwd
+cd /Home
+cd /home
+ls
+cd /home
+cd
+ls
+tree
+sudo apt install tree
+tree
+tree -d
+mkdir
+mkdir -p
+mkdir -p /Home
+mkdir -p /home
+ls
+mkdir script_dir.sh
+pwd
+mkdir script_dir.sh
+#!/bin/bash
+#!/bin/bash.sh
+sudo touch script_dir.sh
+sudo nano script_dir.sh
+mv script_dir.sh /repogit/Tp1_AYSO_Petta_Ramiro
+mv script_dir.sh repogit/Tp1_AYSO_Petta_Ramiro
+cd repogit/Tp1_AYSO_Petta_Ramiro
+ls
+git add .
+git commit -m "ADD: Anadiendo script"
+git push
+history -a
